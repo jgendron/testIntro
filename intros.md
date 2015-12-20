@@ -4,6 +4,40 @@ Tech Tank Data Science Cohort (Class of 2016)
 
 # Members
 
+
+
+|*Team 1* |  |  |
+| ---- | ---- | ---- |
+| Josh Baker | Michael Erwin | Justin Le | 
+| Vijay Balchandani | Ian Ferri | Allen Norman | 
+| Ria Baldevia | Jordan Fisher | Daniel Northrup | 
+| Brian Behe | Jordan Hall | Elisabeth Paulson | 
+| AndreaBonilla | Melissa Hedberg | Austin Priebe | 
+| David Brenman | Ben Hess | Axel Rivera Rivera | 
+| Suthan Chakkamadathil | Dave Hightower | George Zhang | 
+| Matthew Chasse | Antonio Irizarry |  | 
+
+
+|*Team 2* |  |  |
+| ---- | ---- | ---- |
+| Dave Babbitt | Kristof Ladny | Chelsea Ross | 
+| Matthew Brown | Oliver Lee | Stephanie Severe | 
+| Simon Coplan | Kenneth MacDonald | Julia Stevens | 
+| Ylonda Fauntleroy | Jamie Martin | Malachi Tatum | 
+| [Jay Gendron](#jay-gendron) | Alexander Newton | Elias White | 
+| Justin Hoffman | Steven Nutt | Scott Woolley | 
+| Ben Huber | Ben Price | Michael Young | 
+| Michael Kim | KirstiRiehle |  | 
+
+
+
+| ### *Team 2* |   |    |    |    |    |
+| --- | --- | --- | --- | --- | --- |
+| Dave Babbitt | Jay Gendron | Kristof Ladny | Alexander Newton | Chelsea Ross | Elias White | 
+| Matthew Brown | Justin Hoffman | Oliver Lee | Steven Nutt | Stephanie Severe | Scott Woolley | 
+| Simon Coplan | Ben Huber | Kenneth MacDonald | Ben Price | Julia Stevens | Michael Young | 
+| Ylonda Fauntleroy | Michael Kim | Jamie Martin | KirstiRiehle | Malachi Tatum |     |
+
 - [Jay Gendron](#jay-gendron)
 - [Mr. Template](#the-template)
 - [Sally Jones](#sally-jones)
