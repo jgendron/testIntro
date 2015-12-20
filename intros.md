@@ -1,4 +1,5 @@
-Booz Allen Hamilton Tech Tank Data Science Cohort (Class of 2016)
+Booz Allen Hamilton 
+Tech Tank Data Science Cohort (Class of 2016)
 ================
 
 # Members
