@@ -1,4 +1,4 @@
-![BAH Logo.](images/boozallenhamilton.png) 
+![BAH Logo.](images/boozallenlogo.png) 
 Tech Tank Data Science Cohort (Class of 2016)
 ================
 
