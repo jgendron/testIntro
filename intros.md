@@ -20,20 +20,24 @@ Tech Tank Data Science Cohort (Class of 2016)
 |  Ylonda Fauntleroy  |  Kristof Ladny  |  Steven Nutt  |  Julia Stevens  |  |
 |  [Jay Gendron](#jay-gendron)  |  Oliver Lee  |  Ben Price  |  Malachi Tatum  |  |
 
+### The Template - _{track name} ({office name})
+*Skills I can offer the team:* {share those skills you already possess that you would be willing to assist others in developing}
 
-## Jay Gendron [Norfolk Office]
+*Skill I am improving:* {share the area that you would most like to enhance during the Tech Tank Program}
 
-*Skills:* asdlk a f;lakjfd
+*During Tech Tank, I want to...* {share your dreams, your expectations, or your vision for your time in the Data Science cohort}
 
-*Hobbies:* asdf asd fsadf
+*Favorite Quote:* {What is your favorite quote?} [top](#members)
 
-*Favorite Quote:* [The Man in the Arena](images/asdf.jpg) by President Theodore Roosevelt
+### Jay Gendron - _Computer Science Track (Norfolk Office)_
 
-. [top](#members)
+*Skills I can offer the team:* using R and Python, Natural Language Processing, text analytics, statistics, visualization
 
-### The Template
+*Skills I ...* increase my knowledge and application of database a
 
-template template template
+*Favorite Quote:* [The Man in the Arena](https://themotivationmentalist.wordpress.com/2013/12/08/the-man-in-the-arena/) by President Theodore Roosevelt.  [top](#members)
+
+
 
 ## Sally Jones
 
