@@ -6,14 +6,14 @@ Tech Tank Data Science Cohort (Class of 2016)
 
 
 
-|*Team 1* |  |  |  |
-| ---- | ---- | ---- | ---- |
-| Josh Baker | Suthan Chakkamadathil | Melissa Hedberg | Daniel Northrup | 
-| Vijay Balchandani | Matthew Chasse | Ben Hess | Elisabeth Paulson | 
-| Ria Baldevia | Michael Erwin | Dave Hightower | Austin Priebe | 
-| Brian Behe | Ian Ferri | Antonio Irizarry | Axel Rivera Rivera | 
-| AndreaBonilla | Jordan Fisher | Justin Le | George Zhang | 
-| David Brenman | Jordan Hall | Allen Norman |  | 
+|*Team 1* |  |  |  |  |
+| ---- | ---- | ---- | ---- | ---- |
+|  Josh Baker  |  David Brenman  |  Jordan Fisher  |  Antonio Irizarry  |  Austin Priebe  |
+|  Vijay Balchandani  |  Suthan Chakkamadathil  |  Jordan Hall  |  Justin Le  |  Axel Rivera Rivera  |
+|  Ria Baldevia  |  Matthew Chasse  |  Melissa Hedberg  |  Allen Norman  |  George Zhang  |
+|  Brian Behe  |  Michael Erwin  |  Ben Hess  |  Daniel Northrup  |  |
+|  AndreaBonilla  |  Ian Ferri  |  Dave Hightower  |  Elisabeth Paulson  |  |
+
 
 
 
