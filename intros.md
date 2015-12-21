@@ -33,9 +33,9 @@ Tech Tank Data Science Cohort (Class of 2016)
 
 * _Skills I can offer the team:_ using R and Python, Natural Language Processing, text analytics, machine learning, statistics, public speaking and presentations, visualization, and leading teams
 
-* _Skill I am improving:_ increase my knowledge and application of databases using Hadoop and SQL; more applications of machine learning
+* _Skill I am improving:_ increase my knowledge and application of databases using Hadoop and SQL; more application of machine learning in use cases
 
-* _During Tech Tank, I want to..._ network with team mates and mentors to shift my future project load into data science engagements in a more classic management consulting role
+* _During Tech Tank, I want to..._ network with team mates and mentors, establishing my future project load in data science engagements having a more classic management consulting role
 
 * _Favorite Quote:_ [The Man in the Arena](https://themotivationmentalist.wordpress.com/2013/12/08/the-man-in-the-arena/) by President Theodore Roosevelt.  [top](#members)
 
