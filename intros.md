@@ -29,8 +29,7 @@ Tech Tank Data Science Cohort (Class of 2016)
 
 * _Favorite Quote:_ {What is your favorite quote?} [top](#members)
 
-## Jay Gendron
-### _Computer Science Track (Norfolk Office)_
+## Jay Gendron - _Computer Science Track (Norfolk Office)_
 
 * _Skills I can offer the team:_ using R and Python, Natural Language Processing, text analytics, statistics, visualization
 
