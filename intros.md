@@ -33,7 +33,7 @@ Tech Tank Data Science Cohort (Class of 2016)
 
 * _Skills I can offer the team:_ using R and Python, Natural Language Processing, text analytics, machine learning, statistics, public speaking and presentations, visualization, and leading teams
 
-* _Skill I am improving:_ * increase my knowledge and application of databases using Hadoop and SQL; more applications of machine learning
+* _Skill I am improving:_ increase my knowledge and application of databases using Hadoop and SQL; more applications of machine learning
 
 * _During Tech Tank, I want to..._ network with team mates and mentors to shift my future project load into data science engagements in a more classic management consulting role
 
