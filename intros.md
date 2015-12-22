@@ -29,7 +29,8 @@ Tech Tank Data Science Cohort (Class of 2016)
 
 * _Favorite Quote:_ {What is your favorite quote?} [top](#members)
 
-## Jay Gendron - _CompSci Track (Norfolk Office)_
+## Jay Gendron
+#### _CompSci Track (Norfolk Office)_
 
 * _Skills I can offer the team:_ using R and Python, Natural Language Processing, text analytics, machine learning, statistics, public speaking and presentations, visualization, and leading teams
 
@@ -37,7 +38,7 @@ Tech Tank Data Science Cohort (Class of 2016)
 
 * _During Tech Tank, I want to..._ network with team mates and mentors, establishing my future project load in data science engagements having a more classic management consulting role
 
-* _Favorite Quote:_ [The Man in the Arena](https://themotivationmentalist.wordpress.com/2013/12/08/the-man-in-the-arena/) by President Theodore Roosevelt.  [top](#members)
+* _Favorite Quote:_ [The Man in the Arena](images/the-man-in-the-arena.jpg) by President Theodore Roosevelt.  [top](#members)
 
 ## Sally Jones
 
